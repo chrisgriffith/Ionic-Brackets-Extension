@@ -77,7 +77,7 @@
 	"ion-option-button":   { "attributes": [] },
 	"ion-pane":   { "attributes": [] },
 	"ion-popover-view":   { "attributes": [] },
-	"ion-radio":   { "attributes": ["name", "value", "disable", "icon", "ng-disabled", "ng-change" "ng-model", "ng-value"] },
+	"ion-radio":   { "attributes": ["name", "value", "disable", "icon", "ng-disabled", "ng-change", "ng-model", "ng-value"] },
 	"ion-refresher": { "attributes": ["on-refresh ", "on-pulling", "pulling-icon", "pulling-text", "refreshing-icon", "refreshing-text", "disable-pulling-rotation"] },
 	"ion-reorder-button":   { "attributes": [] },
 	"ion-scroll":   { "attributes": ["delegate-handle", "direction", "locking", "paging", "on-refresh", "on-scroll", "scrollbar-x", "scrollbar-y", "zooming", "min-zoom", "max-zoom", "has-bouncing"] },
