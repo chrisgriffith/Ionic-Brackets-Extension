@@ -561,8 +561,8 @@ define(function (require, exports, module) {
         // Register code hint providers
         var tagHints = new TagHints();
         var attrHints = new AttrHints();
-        CodeHintManager.registerHintProvider(tagHints, ["html"], 0);
-        CodeHintManager.registerHintProvider(attrHints, ["html"], 0);
+        CodeHintManager.registerHintProvider(tagHints, ["html"], 6);
+        CodeHintManager.registerHintProvider(attrHints, ["html"], 6);
     
         // For unit testing
         exports.tagHintProvider = tagHints;
