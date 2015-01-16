@@ -60,7 +60,7 @@
                                    "required", "size", "src", "step", "type", "value", "width"] },
     "ins":        { "attributes": ["cite", "datetime"] },
 	
-	"ion-content": { "attributes": ["delegate-handle ", "direction ", "locking ", "padding ", "scroll ", "overflow-scroll ", "scrollbar-x ", "scrollbar-y ", "start-x ", "start-y ", "on-scroll ", "on-scroll-complete ", "has-bouncing ", "scroll-event-interval"] },
+	"ion-content": { "attributes": ["delegate-handle", "direction", "locking", "padding", "scroll", "overflow-scroll", "scrollbar-x", "scrollbar-y", "start-x", "start-y", "on-scroll", "on-scroll-complete", "has-bouncing", "scroll-event-interval"] },
 	"ion-refresher": { "attributes": ["on-refresh ", "on-pulling", "pulling-icon", "pulling-text", "refreshing-icon", "refreshing-text", "disable-pulling-rotation"] },
 	"ion-pane":   { "attributes": [] },
 	"ion-checkbox":   { "attributes": ["ng-model", "ng-value"] },
