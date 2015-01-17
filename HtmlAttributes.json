@@ -281,12 +281,14 @@
 	"show-delete":              { "attribOption": [], "type": "boolean" },
 	"show-pager":              { "attribOption": [], "type": "boolean" },
 	"show-reorder":              { "attribOption": [], "type": "boolean" },
-	"side":              { "attribOption": ["primary", "secondary", "left", "right"] },
 	"slide-interval":              { "attribOption": [] },
 	"start-x":              { "attribOption": [] },
 	"start-y":              { "attribOption": [] },
 	"toggle-class":              { "attribOption": [] },
 	"view-title":              { "attribOption": [] },
 	"zooming":              { "attribOption": [], "type": "boolean" },
-	"ion-list/type":         { "attribOption": ["list-inset", "card"] }
+	"ion-list/type":         { "attribOption": ["list-inset", "card"] },
+	"ion-content/direction":         { "attribOption": ["x", "y", "xy"] },
+	"ion-nav-buttons/side":              { "attribOption": ["primary", "secondary", "left", "right"] },
+	"ion-side-menu/side":              { "attribOption": ["left", "right"] }
 }
