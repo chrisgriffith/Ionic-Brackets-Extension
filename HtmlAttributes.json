@@ -290,5 +290,31 @@
 	"ion-list/type":         { "attribOption": ["list-inset", "card"] },
 	"ion-content/direction":         { "attribOption": ["x", "y", "xy"] },
 	"ion-nav-buttons/side":              { "attribOption": ["primary", "secondary", "left", "right"] },
-	"ion-side-menu/side":              { "attribOption": ["left", "right"] }
+	"ion-side-menu/side":              { "attribOption": ["left", "right"] },
+	"on-hold":          { "attribOption": [], "global": "true" },
+	"on-tap":          { "attribOption": [], "global": "true" },
+	"on-touch":          { "attribOption": [], "global": "true" },
+	"on-release":          { "attribOption": [], "global": "true" },
+	"on-drag":          { "attribOption": [], "global": "true" },
+	"on-drag-up":          { "attribOption": [], "global": "true" },
+	"on-drag-right":          { "attribOption": [], "global": "true" },
+	"on-drag-down":          { "attribOption": [], "global": "true" },
+	"on-drag-left":          { "attribOption": [], "global": "true" },
+	"on-swipe":          { "attribOption": [], "global": "true" },
+	"on-swipe-up":          { "attribOption": [], "global": "true" },
+	"on-swipe-right":          { "attribOption": [], "global": "true" },
+	"on-swipe-down":          { "attribOption": [], "global": "true" },
+	"on-swipe-left":          { "attribOption": [], "global": "true" },
+	"menu-toggle":          { "attribOption": ["left", "right"], "global": "true" },
+	"menu-close":          { "attribOption": [], "global": "true" },
+
+
+	"collection-repeat":          { "attribOption": [], "global": "true" },
+	"collection-item-width":          { "attribOption": [], "global": "true" },
+	"collection-item-height":          { "attribOption": [], "global": "true" },
+
+	"nav-transition":          { "attribOption": ["ios", "android", "none"], "global": "true" },
+	"nav-direction":          { "attribOption": ["forward", "back", "enter", "exit", "swap"], "global": "true" },
+	
+	"data-tap-disabled":          { "attribOption": ["false", "true"], "global": "true" }
 }
