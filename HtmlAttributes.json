@@ -240,6 +240,8 @@
 	"enable-menu-with-back-views":              { "attribOption": [] },
 	"expose-aside-when":              { "attribOption": [] },
 	"has-bouncing":              { "attribOption": [], "type": "boolean" },
+	"has-header":              { "attribOption": [], "type": "boolean" },
+	"has-tabs":              { "attribOption": [], "type": "boolean" },
 	"hide-back-button":              { "attribOption": [], "type": "boolean" },
 	"hide-nav-bar":              { "attribOption": [], "type": "boolean" },
 	"icon-off":              { "attribOption": [] },
