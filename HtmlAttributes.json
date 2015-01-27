@@ -237,7 +237,7 @@
 	"does-continue":              { "attribOption": [], "type": "boolean" },
 	"drag-content":              { "attribOption": [], "type": "boolean" },
 	"edge-drag-threshold":              { "attribOption": [], "type": "boolean" },
-	"enable-menu-with-back-views":              { "attribOption": [] },
+	"enable-menu-with-back-views":              { "attribOption": [], "type": "boolean"  },
 	"expose-aside-when":              { "attribOption": [] },
 	"has-bouncing":              { "attribOption": [], "type": "boolean" },
 	"has-header":              { "attribOption": [], "type": "boolean" },
