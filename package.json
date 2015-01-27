@@ -3,7 +3,7 @@
 	"title": "Ionic Framework Code Hinting",
 	"description": "Code hinting for the Ionic Framework",
 	"homepage": "http://www.ionicbrackets.com/",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"author": "Chris Griffith <chris.griffith@gmail.com> (http://aj-software.com)",
 	"license": "ClearBSD",
 	"engines": {
