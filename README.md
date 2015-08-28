@@ -1,4 +1,4 @@
-# IonicBrackets
+# Ionic Brackets Extension
 A Brackets code hinting extension for the Ionic Framework 
 
 ##Install
