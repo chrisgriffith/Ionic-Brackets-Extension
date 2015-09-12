@@ -14,7 +14,7 @@
     "big":        { "attributes": [] },
     "blockquote": { "attributes": ["cite"] },
     "body":       { "attributes": ["onafterprint", "onbeforeprint", "onbeforeunload", "onhashchange", "onmessage", "onoffline", "ononline",
-                                   "onpagehide", "onpageshow", "onpopstate", "onredo", "onresize", "onstorage", "onundo", "onunload","ng-app", "ng-csp", "data-ng-app", "data-ng-controller", "data-ng-csp"] },
+                                   "onpagehide", "onpageshow", "onpopstate", "onredo", "onresize", "onstorage", "onundo", "onunload","ng-app", "ng-csp", "data-ng-app", "data-ng-controller", "data-ng-csp", "ion-track-auto"] },
     "br":         { "attributes": [] },
     "button":     { "attributes": ["autofocus", "disabled", "form", "formaction", "formenctype", "formmethod", "formnovalidate", "formtarget", 
                                    "name", "type", "value", "ng-disabled"] },
