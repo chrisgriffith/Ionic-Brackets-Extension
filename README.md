@@ -1,7 +1,10 @@
 # Ionic Brackets Extension
-A Brackets code hinting extension for the Ionic Framework 
+A Brackets code hinting extension for the Ionic Framework [http://ionicframework.com/] (http://ionicframework.com/). 
 
-##Install
+## Notice
+ There's a known issue with Brackets that keeps multiple code hinters from being run at the same time. Therefore, for this extension to work, make sure you have no other code hinters installed. 
+
+## Install
 
 1. Install Brackets 1.0 or later.
 2. In Brackets, click the menu item File > Extension Manager...
